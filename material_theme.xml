@@ -1,6 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="isCompactStatusBar" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="statusBarTheme" value="false" />
+    <option name="selectedTheme" value="MONOKAI" />
     <option name="userId" value="-4e5315d4:1698c013192:-8000" />
+    <option name="version" value="3.8.0.2" />
   </component>
 </application>
